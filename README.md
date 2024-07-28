@@ -1,4 +1,4 @@
-![Banner](https://drive.google.com/file/d/15mciYKWplXXiWyY9dHCZSFD1A6MrLNj2/view?usp=sharing)
+![Banner](C:\Users\meli_\Downloads\linkedin banner.png)
 
 ## Hi there! 👋 I’m Melissa, a passionate Data Scientist and Industrial Chemist with expertise in data analysis, machine learning, and CRM management.
 
