@@ -34,6 +34,7 @@ I’m currently diving deeper into advanced machine learning techniques and expl
 
 **Email:** melissa9608@gmail.com  
 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/melissa-londono/)
+
 **GitHub:** [GitHub Profile](https://github.com/melissa9608)
 
 ## 📈 GitHub Stats
