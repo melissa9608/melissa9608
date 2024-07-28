@@ -8,7 +8,7 @@ I specialize in leveraging Python and SQL to transform data into actionable insi
 - **Programming Languages:** Python, SQL
 - **Data Analysis & Machine Learning:** scikit-learn, pandas, numpy
 - **Visualization Tools:** Matplotlib, Seaborn
-- **CRM Systems:** Zoho, Bitrix24, ByDesign
+- **CRM Systems:** Zoho, Bitrix24
 - **Data Analysis & Machine Learning:**
 - **Python Libraries:**
   - scikit-learn: Machine learning algorithms
