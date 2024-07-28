@@ -9,6 +9,11 @@ I specialize in leveraging Python and SQL to transform data into actionable insi
 - **Data Analysis & Machine Learning:** scikit-learn, pandas, numpy
 - **Visualization Tools:** Matplotlib, Seaborn
 - **CRM Systems:** Zoho, Bitrix24, ByDesign
+- **Data Analysis & Machine Learning:**
+- **Python Libraries:**
+  - scikit-learn: Machine learning algorithms
+  - pandas: Data manipulation and analysis
+  - numpy: Numerical operations
 
 ## 🌟 Key Projects:
 - **[Predictive Analysis of Video Game Success](https://github.com/melissa9608/analisis_predictivo)**
@@ -29,6 +34,9 @@ I’m currently diving deeper into advanced machine learning techniques and expl
 
 **Email:** melissa9608@gmail.com  
 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/melissa-londono/)
+**GitHub:** [GitHub Profile](https://github.com/melissa9608)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=melissa9608&show_icons=true&hide_title=true&count_private=true)
+## 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=melissa9608&show_icons=true&hide_title=true&count_private=true&hide=prs)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=melissa9608&layout=compact)
 
