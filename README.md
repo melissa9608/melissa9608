@@ -1,7 +1,31 @@
-## Hi there 👋 I am Melissa a Data Scientist with experience in data analysis and CRM management 👩🏻‍💻 
+![Banner](https://www.linkedin.com/in/melissa-londono/overlay/background-image/)
 
-📊 I have worked on process optimization and data migration, applying machine learning and statistical analysis techniques. Skilled in Python, SQL, and data visualization, I specialize in turning data into key insights for making informed decisions. 
-🚀 My goal is to use my skills to solve complex problems and improve efficiency in data projects.
+## Hi there! 👋 I’m Melissa, a passionate Data Scientist and Industrial Chemist with expertise in data analysis, machine learning, and CRM management.
 
-### Where to find me
-(LinkedIn) https://www.linkedin.com/in/melissa-londono/
+I specialize in leveraging Python and SQL to transform data into actionable insights, optimizing processes, and solving complex problems. My work spans various domains, including predictive modeling, data visualization, and system integration.
+
+## 🔧 Skills & Technologies:
+- **Programming Languages:** Python, SQL
+- **Data Analysis & Machine Learning:** scikit-learn, pandas, numpy
+- **Visualization Tools:** Matplotlib, Seaborn
+- **CRM Systems:** Zoho, Bitrix24, ByDesign
+
+## 🌟 Key Projects:
+- **[Predictive Analysis of Video Game Success](https://github.com/melissa9608/analisis_predictivo)**
+- **[Mobile Plan Recommendation System](https://github.com/melissa9608/machine_learning)**
+- **[Customer Churn Prediction](https://github.com/melissa9608/Aprendizaje_supervisado)**
+- **[Oil Well Location Optimization](https://github.com/melissa9608/Aprendizaje_automatico_en_negocios)**
+- **[Insurance Customer Segmentation](https://github.com/melissa9608/algebra_lineal)**
+
+## 🚀 Current Focus:
+
+I’m currently diving deeper into advanced machine learning techniques and exploring new data science methodologies. I'm also working on improving data-driven decision-making processes for various projects.
+
+## 📬 Contact Me:
+
+<a href="https://www.linkedin.com/in/melissa-londono/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="150" height="50"/>
+</a>
+
+**Email:** melissa9608@gmail.com  
+**LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/melissa-londono/)
