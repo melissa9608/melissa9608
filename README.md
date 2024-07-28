@@ -1,4 +1,4 @@
-![Banner](C:\Users\meli_\Downloads\linkedin banner.png)
+![Banner](https://github.com/melissa9608/banner/blob/main/linkedin%20banner.png)
 
 ## Hi there! 👋 I’m Melissa, a passionate Data Scientist and Industrial Chemist with expertise in data analysis, machine learning, and CRM management.
 
