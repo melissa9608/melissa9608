@@ -28,11 +28,8 @@ I’m currently diving deeper into advanced machine learning techniques and expl
 
 ## 📬 Contact Me:
 
-<a href="https://www.linkedin.com/in/melissa-londono/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="150" height="50"/>
-</a>
-
 **Email:** melissa9608@gmail.com  
+
 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/melissa-londono/)
 
 **GitHub:** [GitHub Profile](https://github.com/melissa9608)
